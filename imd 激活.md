@@ -7,7 +7,7 @@
 
 第一步：准备工作
 
-请先卸载或移除任何旧的IDM破解补丁，确保IDM为纯净的官方安装版本。
+请先卸载或移除任何旧的IDM破解补丁（IDM卸载后执行.bat），确保IDM为纯净的官方安装版本。
 
 官网下载地址：https://www.internetdownloadmanager.com/
 
